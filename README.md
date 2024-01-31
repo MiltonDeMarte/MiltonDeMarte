@@ -32,7 +32,3 @@
 
 [instagram]: https://instagram.com/miltondemarte
 [linkedin]: https://linkedin.com/in/milton-de-marte-04080b167/
-
-```
-
-```
