@@ -2,10 +2,10 @@
 
 ## I'm a Fullstack Developer with skills on e-commerce, web's 2.0, data analytics and machine learning algorithm.
 
-- 🔭 I'm currently working as administrator of G.D.E Digital Transformation System (Argentina)
+- 🔭 I'm currently working as a Semi-Senior Data Engineer/Analyst @MOPC Business Solutions
 - 🌱 I’m currently learning how to develop more my programming skills.
 - 👯 I’m looking towards new horizons that enables me to reach new achivements.
-- 🥅 2022 Goals: Get my self into my first programming job. Become a freelancer eventually and travel the world.
+- 🥅 2024 Goals: Build my own fintech.
 - ⚡ Fun fact: ¿How did the T-Rex scratch it's head?
 
 ### Connect with me:
