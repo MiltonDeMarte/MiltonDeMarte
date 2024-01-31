@@ -1,6 +1,6 @@
 ### Hi there, I'm Milton De Marte 👋
 
-## I'm a Fullstack Developer with skills on e-commerce, web's 2.0, data analytics and machine learning algorithm.
+## I'm a Data Scientist, Fullstack Web developer and Solidity enthusiast.
 
 - 🔭 I'm currently working as a Semi-Senior Data Engineer/Analyst @MOPC Business Solutions
 - 🌱 I’m currently learning how to develop more my programming skills.
